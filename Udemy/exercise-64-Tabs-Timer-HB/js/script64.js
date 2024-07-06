@@ -238,4 +238,8 @@ window.addEventListener("DOMContentLoaded", () => {
     ".menu .container",
     "menu__item"
   ).render();
+
+  // Forms Server
+
+  const forms = document.querySelectorAll("form");
 });
